@@ -3,3 +3,5 @@
 ####  &nbsp; &nbsp; **Challenges Solved** ####
   - Warm-Up.  
   - Arrays.
+  - LinkedLists.
+  - Trees.
